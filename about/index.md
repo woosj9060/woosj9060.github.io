@@ -1,37 +1,39 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Introduction
+I'm Korean, from South Korea, not north.
 
-## Preview
+I don't know anything.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I am a student studying computer science at Sungkyunkwan University.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Skills
+
+* Main Language: Korean, C++, Python
+* Sub Language: English, JAVA, JS
+* Network Tools: GNS, Wireshark, fprobe
+* Python Framework: Django
+* JS Framework: React, Express
+
+
+
+## Education
+
+I am currently studying Computer Science at Sungkyunkwan University. 
+
+Prior to my university studies, I graduated from Sunrin Internet High School, where I majored in Information and Communication Technology.
+
+At Sungkyunkwan University, I have been immersed in a comprehensive curriculum that covers various aspects of computer science. 
+
+I have taken courses such as Data Structures, Algorithms, Database, Software Engineering, Network, Operating Systems, etc.
+
+
